@@ -74,3 +74,7 @@ https://classroom.github.com/a/QX8irMPr
 ## Bài tập Lab12
 
 https://classroom.github.com/a/kMy2T7P1
+
+## Bài tập lớn số 1
+
+https://classroom.github.com/g/RAMxZUas
